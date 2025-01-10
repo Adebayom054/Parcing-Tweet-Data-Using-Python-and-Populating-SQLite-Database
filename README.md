@@ -3,7 +3,7 @@
 
 
 ## Overview
-The goal of this assignment is to process, store, and analyze tweet data using Python and SQLite. The dataset contains one full day of tweets (~4.4M tweets), with subsets of 110,000 and 550,000 tweets used for specific tasks. We evaluate the performance of various operations and provide recommendations based on the results. 
+The goal of this assignment is to process, store, and analyze tweet data using Python and SQLite. The dataset contains one full day of tweets (~4.4M tweets), with subsets of 110,000 and 550,000 tweets used for specific tasks. We evaluate the runtimes of various operations and provide recommendations based on the results. 
 
 ** Please review assignment document for more details.
 
